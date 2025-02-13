@@ -50,7 +50,6 @@ vercel deploy
 ```
 
 ## 📬 Contact
-- **Website:** [dhakshin.me](https://dhakshin.me)
 - **GitHub:** [github.com/dhaksdhakshin](https://github.com/dhaksdhakshin)
 - **LinkedIn:** [linkedin.com/in/dhakshin](https://www.linkedin.com/in/dhakshin)
 
